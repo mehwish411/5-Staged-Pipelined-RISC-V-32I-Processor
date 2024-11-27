@@ -15,7 +15,7 @@ This pipelined implementation of processor supports six basic instructions:
 * S-Type
 * B-Type
 * J-Type
-* U-Type
+* U-Type <br>
 A Hazard Unit has been implemented in this design to handle both data hazards and control hazards in the pipelined processor architecture.
 # Architecture
 We will add four registers in between the complete datapath. These registers store and track different parts of instructions as they pass through the pipeline. They make sure the instructions are properly moved through all five stages so they can execute correctly. This setup ensures the needed data is available to each stage at the right time for proper execution.
