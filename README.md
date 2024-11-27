@@ -22,7 +22,7 @@ We will add four registers in between the complete datapath. These registers sto
 ![image](https://github.com/user-attachments/assets/cbbb7163-a9d1-4dff-8df3-c15852db8c57)
 
 # RTL View:
-![rtl vie_page-0001](https://github.com/user-attachments/assets/c8922a06-af2f-4415-a7ff-fd75ac79c491)
+![image](https://github.com/user-attachments/assets/95489537-a116-459d-b97e-ace88d61a31d)
 
 ## Instructions Used:
 addi x1, x0, 0xA	    00a00513
